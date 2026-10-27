@@ -2,6 +2,8 @@
 NAME:CHANDIKA ABHIRAM
 SECTION:CSM6
 ROLL_NO:26001198
+
+
 1.first problem : case-1
 
 University Scholarship Allocation: Design a system that evaluates applicants using aggregate marks, subject-wise minimum scores, attendance, and income criteria, ranks eligible students, and resolves ties using predefined rules.
